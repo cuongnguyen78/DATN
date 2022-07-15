@@ -1,0 +1,120 @@
+﻿@model PagedList.IPagedList<SachOnline.Models.ChiTietHoaDon>
+@using PagedList.Mvc;
+
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "XemChiTietDonHang";
+    Layout = "~/Areas/Admin/Views/Shared/_MainLayoutAdmin.cshtml";
+}
+<style>
+    .donhang {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+        color:white;
+    }
+        .donhang td {
+            border: 4px solid #ddd;
+            padding: 4px;
+        }
+</style>
+<div class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+
+
+                <div class="card">
+                    <div class="card-header card-header-primary">
+                        @*<h4 class="card-title ">Thông tin hóa đơn: @Session["DonHang"].ToString() </h4>
+                            <h4 class="card-title ">Tình trạng: @Session["TinhTrang"].ToString() </h4>
+                            <h4 class="card-title ">Ngày tạo: @Session["NgayTao"].ToString() </h4>*@
+                        <table class="donhang" align="center">
+                            <tr>
+                                <td colspan="2" align="center">HÓA ĐƠN BÁN HÀNG</td>
+
+                            </tr>
+
+                            <tr>
+                                <td>Thông tin hóa đơn</td>
+                                <td>@Session["DonHang"].ToString()</td>
+                            </tr>
+
+                            <tr>
+                                <td>Tên khách hàng</td>
+                                <td>@Session["TenKH"].ToString()</td>
+                            </tr>
+
+                            <tr>
+                                <td>Số điện thoại</td>
+                                <td>@Session["SDT"].ToString()</td>
+                            </tr>
+                            <tr>
+                                <td>Địa chỉ</td>
+                                <td>@Session["DiaChi"].ToString()</td>
+                            </tr>
+                            <tr>
+                                <td>Tình trạng</td>
+                                <td>@Session["TinhTrang"].ToString()</td>
+                            </tr>
+                            <tr>
+                                <td>Ngày tạo</td>
+                                <td>@Session["NgayTao"].ToString()</td>
+                            </tr>
+                            @*<tr>
+                                <td>Nhân viên bán hàng</td>
+                                <td>@Session["Ten"].ToString()</td>
+                            </tr>*@
+
+
+                        </table>
+                    </div>
+                    <div class="card-body">
+                        @{
+                            var tongtien = 0;
+                        }
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead class=" text-primary">
+                                    <tr align="Center">
+                                        <th>Hình ảnh</th>
+                                        <th>Tên sản phẩm</th>
+                                        <th>Giá</th>
+                                        <th>Số lượng</th>
+                                        <th>Thành tiền</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr align="Center">
+                                            <td><a href="@Url.Action("Details","SanPhams",new { id=item.SanPham.MaSP})"><img style="width:100px;height:150px;" src="~/Assets/images/DanhMucSach/@item.SanPham.HinhAnh" /></a></td>
+                                            <td>@item.SanPham.TenSP</td>
+                                            <td>@item.SanPham.Gia</td>
+                                            <td>@item.SoLuong</td>
+                                            <td>
+                                                @{
+                                                    var x = item.SoLuong;
+                                                    var y = item.SanPham.Gia;
+                                                    var z = x * y;
+                                                    tongtien = (int)(tongtien + z);
+                                                    <span>@z</span>
+                                                }
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                            <h3 align="center" class="card-header card-header-primary">Tổng tiền: @tongtien VNĐ</h3>
+                        </div>
+
+                        Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount
+                        @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+

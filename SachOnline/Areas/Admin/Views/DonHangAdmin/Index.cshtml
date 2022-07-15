@@ -1,0 +1,103 @@
+﻿@model PagedList.IPagedList<SachOnline.Models.HoaDon>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_MainLayoutAdmin.cshtml";
+}
+
+<div class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+
+                @using (Html.BeginForm())
+                {
+                    <p>
+
+                        Tìm hóa đơn: @Html.TextBox("searchString")
+                        <input type="submit" value="Tìm theo mã" />
+                    </p>
+                }
+                <div class="card">
+                    <div class="card-header card-header-primary">
+                        <h4 class="card-title ">Danh sách đơn hàng</h4>
+                    </div>
+                    <div class="card-body">
+
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead class=" text-primary">
+                                    <tr align="Center">
+                                        <th>
+                                            Mã hóa đơn
+                                        </th>
+                                        <th>
+                                            Ngày tạo
+                                        </th>
+                                        <th>
+                                            Người tạo
+                                        </th>
+                                        <th>
+                                            Địa chỉ
+                                        </th>
+                                        <th>
+                                            Số điện thoại
+                                        </th>
+                                        <th>
+                                            Tình trạng đơn hàng
+                                        </th>
+                                        <td colspan="3">
+                                            Chức năng
+                                        </td>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        
+                                        Session["NgayTao"] = item.NgayTao;
+                                    <tr align="Center">
+                                        <td>
+                                            @item.MAHD
+                                        </td>
+                                        <td>
+                                            @item.NgayTao
+                                        </td>
+                                        <td>
+                                            @item.KhachHang.TenKH
+                                        </td>
+                                        <td>
+                                            @item.KhachHang.DiaChi
+                                        </td>
+                                        <td>
+                                            @item.KhachHang.SDT
+                                        </td>
+                                        <td>
+                                            @item.TinhTrang
+                                        </td>
+                                        <td class="text-primary">
+                                            <a href="@Url.Action("XemChiTietDonHang","DonHangAdmin",new { id=item.MAHD})">Xem chi tiết đơn hàng</a>
+                                        </td>
+                                        <td class="text-primary">
+                                            <a href="@Url.Action("CungCapDonHang","DonHangAdmin",new { id=item.MAHD})">Cung cấp đơn hàng</a>
+       
+                                        </td>
+                                        <td class="text-primary">
+                                            <a href="@Url.Action("HuyDonHang","DonHangAdmin",new { id=item.MAHD})">Hủy đơn hàng</a>
+                                        </td>
+                                    </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                        Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount
+                        @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,69 @@
+﻿@model SachOnline.Models.KhachHang
+@using CaptchaMvc.HtmlHelpers;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script language="javascript" src="http://code.jquery.com/jquery-2.0.0.min.js"></script>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Assets/css/NewSignIn.css" type="text/css" rel="stylesheet" />
+    <title>Đăng nhập</title>
+
+</head>
+
+<body>
+    <div id="login-box">
+        @using (Html.BeginForm("Authen", "Login", FormMethod.Post, htmlAttributes: new { @enctype = "multipart/form-data", @id = "fromCapcha" }))
+        {
+            @Html.AntiForgeryToken()
+        <div class="left">
+            <h1>Đăng nhập</h1>
+            @if (HttpContext.Current.Session["Kiemtra"] == null)
+            {
+
+            }
+            else
+            {
+                <span style="text-align:center;color:green;">Đăng ký thành công<br /></span>
+            }
+            <span>Nhập vào số điện thoại:</span>
+            @Html.TextBoxFor(m => m.SDT, new { @class = "form-control", placeholder = "Số điện thoại", })
+            <span>Nhập vào mật khẩu:</span>
+            @Html.TextBoxFor(m => m.MatKhau,new {@class="form-control", placeholder="Mật khẩu"})
+            @Html.Captcha("Thử lại", "Nhập vào chữ bạn nhìn thấy", length: 2)
+            <p style="color:red;">@ViewBag.ErrorMsg</p>
+            <div class="nut"  margin-top: 0px;>
+                <input type="submit" value="Đăng nhập" />
+                <input type="reset" value="Làm mới" />
+            </div>
+        </div>
+
+            <div class="right">
+                <span class="loginwith">Đăng nhập với</span>
+
+                <button class="social-signin facebook">Facebook</button>
+                <button class="social-signin twitter">Twitter</button>
+                <button class="social-signin google">Google+</button>
+                <div class="DangNhap">
+                    Bạn chưa có tài khoản?
+                    <br />
+                    <a style="text-decoration:none" href="@Url.Action("Register","Login")"><h3 style="color:cornflowerblue;text-align:center;">Đăng ký ngay</h3></a>
+                    <a style="text-decoration:none" href="@Url.Action("Home","Sanphams")"><h3 style="color:cornflowerblue;text-align:center;">Trang chủ</h3></a>
+                </div>
+                @if (ViewBag.Error != null)
+                {
+                    <span style="color:red; font-size:18px">@ViewBag.Error</span>
+                }
+            </div>
+
+        }
+        <div class="or">OR</div>
+    </div>
+</body>
+</html>

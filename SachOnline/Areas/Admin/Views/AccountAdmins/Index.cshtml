@@ -1,0 +1,91 @@
+﻿@model PagedList.IPagedList<SachOnline.Models.AccountAdmin>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_MainLayoutAdmin.cshtml";
+}
+
+<div class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <p>
+                    @Html.ActionLink("Tạo mới", "Create")
+                </p>
+                @using (Html.BeginForm())
+                {
+                    <p>
+
+                        Tìm tài khoản theo mã: @Html.TextBox("searchString")
+                        <input type="submit" value="Tìm tài khoản" />
+                    </p>
+                }
+                <div class="card">
+                    <div class="card-header card-header-primary">
+                        <h4 class="card-title ">Danh sách tài khoản</h4>
+                    </div>
+                    <div class="card-body">
+
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead class=" text-primary">
+                                    <tr>
+                                        <th>
+                                            Mã tài khoản
+                                        </th>
+                                        <th>
+                                            Mật khẩu
+                                        </th>
+                                        <th>
+                                            Tên
+                                        </th>
+                                        <th>
+                                            Số điện thoại
+                                        </th>
+                                        <th>
+                                            Quyền
+                                        </th>
+                                        <td colspan="2">
+                                        </td>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>
+                                                @item.MaTK
+                                            </td>
+                                            <td>
+                                                @item.MatKhau
+                                            </td>
+                                            <td>
+                                                @item.Ten
+                                            </td>
+                                            <td>
+                                                @item.SDT
+                                            </td>
+                                            <td>
+                                                @item.Quyen
+                                            </td>
+                                            <td>
+                                                @Html.ActionLink("Sửa", "Edit", new { id = item.MaTK })
+                                            </td>
+                                            <td class="text-primary">
+                                                @Html.ActionLink("Xóa", "Delete", new { id = item.MaTK })
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                        Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount
+                            @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

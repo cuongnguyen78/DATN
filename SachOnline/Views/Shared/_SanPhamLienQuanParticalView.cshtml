@@ -1,0 +1,19 @@
+﻿@model IEnumerable<SachOnline.Models.SanPham>
+<div class="widget wid-product">
+    <div class="heading"><h4>Mới nhất</h4></div>
+    <div class="content">
+        @foreach (var item in Model)
+        {
+            <div class="product">
+                <a href="@Url.Action("Details","SanPhams",new { id=item.MaSP})"><img style="width:80px;height:120px" src="~/Assets/images/DanhMucSach//@item.HinhAnh" /></a>
+                <div class="wrapper">
+                    <h5><a href="@Url.Action("Details","SanPhams",new { id=item.MaSP})">@item.TenSP</a></h5>
+                    <div class="price">@item.Gia VNĐ</div>
+                    <div class="rating"><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star-empty"></span></div>
+                </div>
+            </div>
+        }
+
+
+    </div>
+</div>

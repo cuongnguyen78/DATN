@@ -1,0 +1,155 @@
+﻿@model PagedList.IPagedList<SachOnline.Models.ChiTietHoaDon>
+@using PagedList.Mvc;
+
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "Xem chi tiết đơn hàng";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<style>
+    #customers {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 78%;
+        color: black;
+    }
+
+        #customers td, #customers th {
+            border: 4px solid #ddd;
+            padding: 4px;
+        }
+
+        #customers tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+      
+
+        #customers th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: left;
+            background-color: #fe4f4b;
+            color: white;
+        }
+    .donhang {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 78%;
+        color:black;
+    }
+        .donhang td {
+            border: 4px solid #ddd;
+            padding: 4px;
+        }
+</style>
+
+<body>
+    @*<br />
+    <h3>Thông tin hóa đơn: @Session["DonHang"].ToString()</h3>
+    <br />
+    <span style="color: #fe4f4b; font-size: 20px;">Tình trạng: @Session["TinhTrang"].ToString()</span>
+    <br />
+    <span style="color: #fe4f4b; font-size: 20px;">Ngày tạo: @Session["NgayTao"].ToString()</span>
+    <br />
+    <span style="color: #fe4f4b; font-size: 20px;">Số điện thoại người nhận: @Session["SDT"].ToString()</span>
+    <br />*@
+    <table class="donhang" align="center">
+        <tr>
+            <td colspan="2" align="center">CHI TIẾT ĐƠN HÀNG</td>
+
+        </tr>
+
+        <tr>
+            <td>Thông tin hóa đơn</td>
+            <td>@Session["DonHang"].ToString()</td>
+        </tr>
+
+        <tr>
+            <td>Tên khách hàng</td>
+            <td>@Session["TenKH"].ToString()</td>
+        </tr>
+
+        <tr>
+            <td>Số điện thoại</td>
+            <td>@Session["SDT"].ToString()</td>
+        </tr>
+        <tr>
+            <td>Địa chỉ</td>
+            <td>@Session["DiaChi"].ToString()</td>
+        </tr>
+        <tr>
+            <td>Tình trạng</td>
+            <td>@Session["TinhTrang"].ToString()</td>
+        </tr>
+        <tr>
+            <td>Thời gian đặt</td>
+            <td>@Session["NgayTao"].ToString()</td>
+        </tr>
+
+
+    </table>
+
+    <h3 style="text-align:center">Danh sách mặt hàng</h3>
+    <table id="customers" align="center">
+        <tr>
+            <th>Hình ảnh</th>
+            <th>Tên sản phẩm</th>
+            <th>Giá</th>
+            <th>Số lượng</th>
+            <th>Thành tiền</th>
+        </tr>
+        @{
+            var tongtien = 0;
+        }
+        @{
+            var count = 0;
+        }
+        @foreach (var item in Model)
+        {
+            count = count + 1;
+            <tr>
+                <td><a href="@Url.Action("Details","SanPhams",new { id=item.SanPham.MaSP})"><img style="width:80px;height:120px;" src="~/Assets/images/DanhMucSach//@item.SanPham.HinhAnh" /></a></td>
+                <td>@item.SanPham.TenSP</td>
+                <td>@item.SanPham.Gia</td>
+                @*<td>
+                        @using (Html.BeginForm("Update_Quantity_Cart", "ShoppingCart"))
+                        {
+                            <input type="hidden" value="@item.MaSP" name="MaSP" />
+                            <input type="number" value="@item.SoLuong" name="soLuongSP" />
+                            <input type="submit" value="Cập nhật" style="background-color: #fe4f4b; color: white; border: 1px solid #ddd;" />
+                        }
+                    </td>*@
+                <td>@item.SoLuong</td>
+                <td>
+                    @{
+                        var x = item.SoLuong;
+                        var y = item.SanPham.Gia;
+                        var z = x * y;
+                        tongtien = (int)(tongtien + z);
+                        <span>@z</span>
+                    }
+                </td>
+            </tr>
+        }
+
+
+    </table>
+    <h3 style="text-align: center; color: #fe4f4b;">Tổng tiền: @tongtien VNĐ</h3>
+    @if (count == 0)
+    {
+        <div style="margin-top:200px;margin-bottom:200px;width:100%;"><h4 style="color: #fe4f4b; text-align: center;">Chưa có sản phẩm, hãy mua hàng đi nào!!! </h4></div>
+    }
+    else
+    {
+
+    }
+    <br />
+
+</body>
+<div align="center">
+    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount
+    @Html.PagedListPager(Model, page => Url.Action("XemChiTietDonHang", new { page }))
+</div>
+

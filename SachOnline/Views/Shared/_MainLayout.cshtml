@@ -1,0 +1,212 @@
+﻿@{
+    ViewBag.Title = "_MainLayout";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Free Bootstrap Themes by 365Bootstrap dot com - Free Responsive Html5 Templates">
+    <meta name="author" content="http://www.365bootstrap.com">
+
+    <title>Quản lý bán sách</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="~/Assets/css/bootstrap.min.css" type="text/css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="~/Assets/css/style.css" type="text/css">
+
+
+    <!-- Custom Fonts -->
+    <link rel="stylesheet" href="~/Assets/font-awesome/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="~/Assets/fonts/font-slider.css" type="text/css">
+
+    <!-- jQuery and Modernizr-->
+    <script src="~/Assets/js/jquery-2.1.1.js"></script>
+
+    <!-- Core JavaScript Files -->
+    <script src="~/Assets/js/bootstrap.min.js"></script>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="js/html5shiv.js"></script>
+        <script src="js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--Top-->
+    <nav id="top">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-6">
+                    <select class="language">
+                        <option value="English">English</option>
+                        <option value="VietNam" selected>Việt Nam</option>
+                    </select>
+                    <select class="currency">
+                        <option value="USD">USD</option>
+                        <option value="EUR">EUR</option>
+                        <option value="VND" selected>VNĐ</option>
+                    </select>
+                </div>
+                <div class="col-xs-6" >
+                    <ul class="top-link" >
+                        @if (HttpContext.Current.Session["SDT"] == null)
+                        {
+
+                            <li><a href="@Url.Action("Register","Login")"><span class="glyphicon glyphicon-user"></span>Đăng ký</a></li>
+                            <li><a href="@Url.Action("Index","Login")"><span class="glyphicon glyphicon-user"></span>Đăng nhập</a></li>
+
+
+
+                        }
+                        else
+                        {
+                            <li><a href="@Url.Action("Edit","KhachHangs",new { id=Session["SDT"]})"><span></span>Sửa thông tin</a></li>
+                            <li><a href="@Url.Action("Logout","Login")"><span></span>Đăng xuất</a></li>
+                        }
+                    </ul>
+
+                    @if (HttpContext.Current.Session["SDT"] == null)
+                    {
+                        <span>Bạn chưa đăng nhập!!!<br /></span>
+                    }
+                    else
+                    { <span>Bạn đã đăng nhập thành công!!!<br /></span>
+                      <span>Xin chào @Session["TenKH"]</span>
+                    }
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!--Header-->
+    <header class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div id="logo"><img src="~/Assets/images/logo_starbooks.png" /></div>
+            </div>
+            @using (Html.BeginForm("Index", "SanPhams", FormMethod.Get))
+            {
+                <div class="col-md-4">
+                    <form class="form-search">
+                        <input type="text" name="seachString" class="input-medium search-query" placeholder="Nhập sách muốn tìm kiếm...">
+                        <button type="submit" class="btn"><span class="glyphicon glyphicon-search"></span></button>
+                    </form>
+                </div>
+            }
+            <div class="col-md-4">
+                @if (HttpContext.Current.Session["SDT"] == null)
+                {
+                    <div id="cart"><a class="btn btn-1" href="@Url.Action("Index","Login")"><span class="glyphicon glyphicon-shopping-cart"></span>CART </a></div>
+
+                }
+                else
+                {
+                    <div id="cart"><a class="btn btn-1" href="@Url.Action("XemGioHang","ShoppingCart")"><span class="glyphicon glyphicon-shopping-cart"></span>CART </a></div>
+                }
+            </div>
+        </div>
+    </header>
+    <!--Navigation-->
+    <nav id="menu" class="navbar" >
+        <div class="container">
+
+            <div class="collapse navbar-collapse navbar-ex1-collapse" >
+                <ul class="nav navbar-nav" style="background-color: #fe4f4b; ">
+                    <li><a  href="@Url.Action("Home","SanPhams")">Trang Chủ</a></li>
+                    <li><a  href="@Url.Action("Index","SanPhams")">Sản Phẩm</a></li>
+                    <!--ghep giao diện phụ vào main-->
+                    @Html.Partial("_DanhMucSanPham", SachOnline.Buss.DanhMucSanPhamBus.DanhSach())
+                    @Html.Partial("_NhaXuatBan", SachOnline.Buss.NhaXuatBanBus.DanhSach())
+                    <li><a href="@Url.Action("Index","BlogKH")">Xem Blog</a></li>
+                    @if (HttpContext.Current.Session["SDT"] == null)
+                    {
+
+
+
+
+
+                    }
+                    else
+                    {
+                        <li><a href="@Url.Action("XemDonHang","DatHang")">Xem Đơn hàng</a></li>
+                    }
+                </ul>
+                
+            </div>
+        </div>
+    </nav>
+
+    <!--//////////////////////////////////////////////////-->
+    <!--///////////////////Category Page//////////////////-->
+    <!--//////////////////////////////////////////////////-->
+    @RenderBody()
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    <footer style="background-color: #e58686; color:#fff;">
+        <div class="container">
+            <div class="wrap-footer">
+                <div class="row">
+                    <div class="col-md-3 col-footer footer-1">
+                        <a href="#" style="text-decoration:none" ,>
+                            <h2 style="color:white; margin-top:-5px;margin-bottom:5px;">StarBooks</h2>
+                        </a>
+
+
+                    
+                    </div>
+                    <div class="col-md-3 col-footer footer-2">
+                        <div class="heading"><h4>Chăm sóc khách hàng</h4></div>
+                        <ul >
+                            <li><a style="color: #fff;" href="https://www.facebook.com/cuongnguyendtk78">Thông tin về chúng tôi</a></li>
+                            <li><a style="color: #fff;" href="https://www.facebook.com/cuongnguyendtk78">Điều khoản</a></li>
+                            <li><a style="color: #fff;" href="https://www.facebook.com/cuongnguyendtk78">Liên lạc với chúng tôi</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3 col-footer footer-3">
+                        <div class="heading"><h4>Tài khoản của bạn</h4></div>
+                        <ul>
+                        
+                            <li><a style="color: #fff;" href="@Url.Action("Index","Login")">Đăng nhập</a></li>
+                            <li><a style="color: #fff;" href="@Url.Action("Logout","Login")">Đăng xuất</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="col-md-3 col-footer footer-4">
+                        <div class="heading"><h4>Contact Us</h4></div>
+                        <ul>
+                            <li><span class="glyphicon glyphicon-home"></span>Bắc Từ Liêm Hà Nội</li>
+                            <li><span class="glyphicon glyphicon-earphone"></span>0962781328</li>
+                            <li><span class="glyphicon glyphicon-envelope"></span>cuongnguyen@gmail.com</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+
+                    </div>
+                    <div class="col-md-6">
+                        <div class="pull-right">
+                            <ul>
+                                <li><img src="~/Assets/images//visa-curved-32px.png" /></li>
+                                <li><img src="~/Assets/images//paypal-curved-32px.png" /></li>
+                                <li><img src="~/Assets/images//discover-curved-32px.png" /></li>
+                                <li><img src="~/Assets/images//maestro-curved-32px.png" /></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

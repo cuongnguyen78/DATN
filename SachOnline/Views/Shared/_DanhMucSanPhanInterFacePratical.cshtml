@@ -1,0 +1,13 @@
+﻿@model IEnumerable<SachOnline.Models.DanhMucSanPham>
+<div class="widget wid-categories">
+    <div class="heading"><h4>Danh mục sản phẩm</h4></div>
+    <div class="content">
+        <ul >
+            @foreach (var item in Model)
+            {
+                <li><a href="@Url.Action("Index","DanhMucSanPhams", new { id=item.MaDanhMuc})">@item.TenDanhMuc</a></li>
+            }
+
+        </ul>
+    </div>
+</div>

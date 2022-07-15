@@ -1,0 +1,41 @@
+﻿@model SachOnline.Models.BLOG
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/_MainLayoutAdmin.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Bạn có muốn xóa block này?</h3>
+<div>
+    <h4>BLOG</h4>
+    <hr />
+    <dl class="dl-horizontal" style="margin-left:80px;">
+        <dt>
+            Tên blog: 
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenBlog)
+        </dd>
+
+        <dt>
+           Nội dung blog: 
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NoiDungBlog)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xóa" class="btn btn-default" /> |
+            @Html.ActionLink("Quay lại", "Index")
+        </div>
+    }
+</div>

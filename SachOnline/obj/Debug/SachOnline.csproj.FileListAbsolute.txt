@@ -1,0 +1,797 @@
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\SachOnline.dll.config
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\SachOnline.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\SachOnline.pdb
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\csc.exe
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\csc.exe.config
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\csc.rsp
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\csi.exe
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\csi.exe.config
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\csi.rsp
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.AppContext.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Console.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\vbc.exe
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\vbc.exe.config
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\vbc.rsp
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\Antlr3.Runtime.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\EntityFramework.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\Newtonsoft.Json.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\System.Web.Helpers.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\System.Web.Mvc.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\System.Web.Optimization.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\System.Web.Razor.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\System.Web.WebPages.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\WebGrease.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\EntityFramework.xml
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\System.Web.Helpers.xml
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\System.Web.Mvc.xml
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\System.Web.Optimization.xml
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\System.Web.Razor.xml
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\System.Web.WebPages.xml
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\Newtonsoft.Json.xml
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\Antlr3.Runtime.pdb
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\obj\Debug\SachOnline.csproj.CoreCompileInputs.cache
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\obj\Debug\SachOnline.csproj.CopyComplete
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\obj\Debug\SachOnline.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\obj\Debug\SachOnline.pdb
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\PagedList.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\PagedList.Mvc.dll
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\PagedList.xml
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\bin\PagedList.Mvc.xml
+C:\Users\84866\Desktop\SachOnline\bin\SachOnline.dll.config
+C:\Users\84866\Desktop\SachOnline\bin\SachOnline.dll
+C:\Users\84866\Desktop\SachOnline\bin\SachOnline.pdb
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\csc.exe
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\csc.exe.config
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\csc.rsp
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\csi.exe
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\csi.exe.config
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\csi.rsp
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.AppContext.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Console.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\vbc.exe
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\vbc.exe.config
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\vbc.rsp
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\84866\Desktop\SachOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\84866\Desktop\SachOnline\bin\Antlr3.Runtime.dll
+C:\Users\84866\Desktop\SachOnline\bin\EntityFramework.dll
+C:\Users\84866\Desktop\SachOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\84866\Desktop\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\84866\Desktop\SachOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\84866\Desktop\SachOnline\bin\Newtonsoft.Json.dll
+C:\Users\84866\Desktop\SachOnline\bin\PagedList.dll
+C:\Users\84866\Desktop\SachOnline\bin\PagedList.Mvc.dll
+C:\Users\84866\Desktop\SachOnline\bin\System.Web.Helpers.dll
+C:\Users\84866\Desktop\SachOnline\bin\System.Web.Mvc.dll
+C:\Users\84866\Desktop\SachOnline\bin\System.Web.Optimization.dll
+C:\Users\84866\Desktop\SachOnline\bin\System.Web.Razor.dll
+C:\Users\84866\Desktop\SachOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\84866\Desktop\SachOnline\bin\System.Web.WebPages.dll
+C:\Users\84866\Desktop\SachOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\84866\Desktop\SachOnline\bin\WebGrease.dll
+C:\Users\84866\Desktop\SachOnline\bin\EntityFramework.xml
+C:\Users\84866\Desktop\SachOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\84866\Desktop\SachOnline\bin\PagedList.xml
+C:\Users\84866\Desktop\SachOnline\bin\PagedList.Mvc.xml
+C:\Users\84866\Desktop\SachOnline\bin\System.Web.Helpers.xml
+C:\Users\84866\Desktop\SachOnline\bin\System.Web.Mvc.xml
+C:\Users\84866\Desktop\SachOnline\bin\System.Web.Optimization.xml
+C:\Users\84866\Desktop\SachOnline\bin\System.Web.Razor.xml
+C:\Users\84866\Desktop\SachOnline\bin\System.Web.WebPages.xml
+C:\Users\84866\Desktop\SachOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\84866\Desktop\SachOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\84866\Desktop\SachOnline\bin\Newtonsoft.Json.xml
+C:\Users\84866\Desktop\SachOnline\bin\Antlr3.Runtime.pdb
+C:\Users\84866\Desktop\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\84866\Desktop\SachOnline\obj\Debug\SachOnline.csproj.AssemblyReference.cache
+C:\Users\84866\Desktop\SachOnline\obj\Debug\SachOnline.csproj.CoreCompileInputs.cache
+C:\Users\84866\Desktop\SachOnline\obj\Debug\SachOnline.csproj.CopyComplete
+C:\Users\84866\Desktop\SachOnline\obj\Debug\SachOnline.dll
+C:\Users\84866\Desktop\SachOnline\obj\Debug\SachOnline.pdb
+C:\Users\84866\Desktop\BTL WEB\LamLaiBTL\SachOnline\obj\Debug\SachOnline.csproj.AssemblyReference.cache
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\SachOnline.dll.config
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\SachOnline.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\SachOnline.pdb
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\csc.exe
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\csc.exe.config
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\csc.rsp
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\csi.exe
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\csi.exe.config
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\csi.rsp
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.AppContext.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Console.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.IO.Compression.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Net.Http.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.ValueTuple.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\vbc.exe
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\vbc.exe.config
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\vbc.rsp
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\Antlr3.Runtime.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\EntityFramework.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\EntityFramework.SqlServer.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\Newtonsoft.Json.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\PagedList.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\PagedList.Mvc.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.Helpers.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.Mvc.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.Optimization.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.Razor.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.WebPages.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Razor.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\WebGrease.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\EntityFramework.xml
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\EntityFramework.SqlServer.xml
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\PagedList.xml
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\PagedList.Mvc.xml
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.Helpers.xml
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.Mvc.xml
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.Optimization.xml
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.Razor.xml
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.WebPages.xml
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Razor.xml
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\Newtonsoft.Json.xml
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\Antlr3.Runtime.pdb
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\obj\Debug\SachOnline.csproj.CoreCompileInputs.cache
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\obj\Debug\SachOnline.csproj.CopyComplete
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\obj\Debug\SachOnline.dll
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\obj\Debug\SachOnline.pdb
+D:\Documents\Lap Trinh ASP.NET\File Bai Tap Lon\LamLaiBTL\SachOnline\obj\Debug\SachOnline.csproj.AssemblyReference.cache
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\SachOnline.dll.config
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\SachOnline.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\SachOnline.pdb
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\csc.exe
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\csc.exe.config
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\csc.rsp
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\csi.exe
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\csi.exe.config
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\csi.rsp
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.AppContext.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Console.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\vbc.exe
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\vbc.exe.config
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\vbc.rsp
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\Antlr3.Runtime.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\EntityFramework.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\Newtonsoft.Json.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\PagedList.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\PagedList.Mvc.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.Helpers.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.Mvc.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.Optimization.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.Razor.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.WebPages.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\WebGrease.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\EntityFramework.xml
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\PagedList.xml
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\PagedList.Mvc.xml
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.Helpers.xml
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.Mvc.xml
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.Optimization.xml
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.Razor.xml
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.WebPages.xml
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\Newtonsoft.Json.xml
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\Antlr3.Runtime.pdb
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\obj\Debug\SachOnline.csproj.CoreCompileInputs.cache
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\obj\Debug\SachOnline.csproj.CopyComplete
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\obj\Debug\SachOnline.dll
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\obj\Debug\SachOnline.pdb
+C:\Users\84866\Downloads\File Bai Tap Lon\LamLaiBTL\SachOnline\obj\Debug\SachOnline.csproj.AssemblyReference.cache
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\SachOnline.dll.config
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\SachOnline.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\SachOnline.pdb
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\csc.exe
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\csc.exe.config
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\csc.rsp
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\csi.exe
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\csi.exe.config
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\csi.rsp
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.AppContext.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Console.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.IO.Compression.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Net.Http.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.ValueTuple.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\vbc.exe
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\vbc.exe.config
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\vbc.rsp
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\Antlr3.Runtime.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\EntityFramework.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\EntityFramework.SqlServer.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\Newtonsoft.Json.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\PagedList.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\PagedList.Mvc.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\System.Web.Helpers.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\System.Web.Mvc.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\System.Web.Optimization.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\System.Web.Razor.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\System.Web.WebPages.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Razor.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\WebGrease.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\EntityFramework.xml
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\EntityFramework.SqlServer.xml
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\PagedList.xml
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\PagedList.Mvc.xml
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\System.Web.Helpers.xml
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\System.Web.Mvc.xml
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\System.Web.Optimization.xml
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\System.Web.Razor.xml
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\System.Web.WebPages.xml
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Razor.xml
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\Newtonsoft.Json.xml
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\Antlr3.Runtime.pdb
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\obj\Debug\SachOnline.csproj.CoreCompileInputs.cache
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\obj\Debug\SachOnline.csproj.CopyComplete
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\obj\Debug\SachOnline.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\obj\Debug\SachOnline.pdb
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\SachOnline.dll.config
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\SachOnline.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\SachOnline.pdb
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\csc.exe
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\csc.exe.config
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\csc.rsp
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\csi.exe
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\csi.exe.config
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\csi.rsp
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.AppContext.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Console.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\vbc.exe
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\vbc.exe.config
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\vbc.rsp
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\Antlr3.Runtime.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\EntityFramework.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\Newtonsoft.Json.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\PagedList.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\PagedList.Mvc.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\System.Web.Helpers.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\System.Web.Mvc.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\System.Web.Optimization.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\System.Web.Razor.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\System.Web.WebPages.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\WebGrease.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\EntityFramework.xml
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\PagedList.xml
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\PagedList.Mvc.xml
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\System.Web.Helpers.xml
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\System.Web.Mvc.xml
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\System.Web.Optimization.xml
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\System.Web.Razor.xml
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\System.Web.WebPages.xml
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\Newtonsoft.Json.xml
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\Antlr3.Runtime.pdb
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\obj\Debug\SachOnline.csproj.CoreCompileInputs.cache
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\obj\Debug\SachOnline.csproj.CopyComplete
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\obj\Debug\SachOnline.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\obj\Debug\SachOnline.pdb
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\SachOnline.dll.config
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\SachOnline.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\SachOnline.pdb
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\csc.exe
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\csc.exe.config
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\csc.rsp
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\csi.exe
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\csi.exe.config
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\csi.rsp
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.AppContext.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Console.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\vbc.exe
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\vbc.exe.config
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\vbc.rsp
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\Antlr3.Runtime.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\CaptchaMvc.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\EntityFramework.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\Newtonsoft.Json.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\PagedList.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\PagedList.Mvc.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\System.Web.Helpers.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\System.Web.Mvc.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\System.Web.Optimization.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\System.Web.Razor.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\System.Web.WebPages.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\WebGrease.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\CaptchaMvc.pdb
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\CaptchaMvc.xml
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\EntityFramework.xml
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\PagedList.xml
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\PagedList.Mvc.xml
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\System.Web.Helpers.xml
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\System.Web.Mvc.xml
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\System.Web.Optimization.xml
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\System.Web.Razor.xml
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\System.Web.WebPages.xml
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\Newtonsoft.Json.xml
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\Antlr3.Runtime.pdb
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\obj\Debug\SachOnline.csproj.AssemblyReference.cache
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\obj\Debug\SachOnline.csproj.CoreCompileInputs.cache
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\obj\Debug\SachOnline.csproj.CopyComplete
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\obj\Debug\SachOnline.dll
+C:\Users\84866\Desktop\1\LamLaiBTL\SachOnline\obj\Debug\SachOnline.pdb
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\CaptchaMvc.dll
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\CaptchaMvc.pdb
+D:\Documents\Lap Trinh ASP.NET\BaiTapLon ASP Nhom3\LamLaiBTL\SachOnline\bin\CaptchaMvc.xml
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\CaptchaMvc.dll
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\CaptchaMvc.pdb
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\bin\CaptchaMvc.xml
+C:\Users\84866\Desktop\LamLaiBTL\SachOnline\obj\Debug\SachOnline.csproj.AssemblyReference.cache
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\SachOnline.dll.config
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\SachOnline.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\SachOnline.pdb
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\csc.exe
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\csc.exe.config
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\csc.rsp
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\csi.exe
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\csi.exe.config
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\csi.rsp
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.AppContext.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Console.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.IO.Compression.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Net.Http.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.ValueTuple.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\vbc.exe
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\vbc.exe.config
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\vbc.rsp
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\Antlr3.Runtime.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\CaptchaMvc.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\EntityFramework.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\EntityFramework.SqlServer.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\Newtonsoft.Json.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\PagedList.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\PagedList.Mvc.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\System.Web.Helpers.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\System.Web.Mvc.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\System.Web.Optimization.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\System.Web.Razor.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\System.Web.WebPages.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\System.Web.WebPages.Razor.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\WebGrease.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\CaptchaMvc.pdb
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\CaptchaMvc.xml
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\EntityFramework.xml
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\EntityFramework.SqlServer.xml
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\PagedList.xml
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\PagedList.Mvc.xml
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\System.Web.Helpers.xml
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\System.Web.Mvc.xml
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\System.Web.Optimization.xml
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\System.Web.Razor.xml
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\System.Web.WebPages.xml
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\System.Web.WebPages.Razor.xml
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\Newtonsoft.Json.xml
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\Antlr3.Runtime.pdb
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\obj\Debug\SachOnline.csproj.CoreCompileInputs.cache
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\obj\Debug\SachOnline.csproj.CopyComplete
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\obj\Debug\SachOnline.dll
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\obj\Debug\SachOnline.pdb
+D:\Documents\Lap Trinh ASP.NET\Bai Tap Lon ASP.NET MVC\SachOnline\obj\Debug\SachOnline.csproj.AssemblyReference.cache
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\SachOnline.dll.config
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\SachOnline.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\SachOnline.pdb
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\csc.exe
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\csc.exe.config
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\csc.rsp
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\csi.exe
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\csi.exe.config
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\csi.rsp
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.AppContext.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Console.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.IO.Compression.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Net.Http.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.ValueTuple.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\vbc.exe
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\vbc.exe.config
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\vbc.rsp
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\Antlr3.Runtime.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\CaptchaMvc.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\EntityFramework.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\EntityFramework.SqlServer.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\Newtonsoft.Json.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\PagedList.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\PagedList.Mvc.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\System.Web.Helpers.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\System.Web.Mvc.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\System.Web.Optimization.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\System.Web.Razor.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\System.Web.WebPages.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\System.Web.WebPages.Razor.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\WebGrease.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\CaptchaMvc.pdb
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\CaptchaMvc.xml
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\EntityFramework.xml
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\EntityFramework.SqlServer.xml
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\PagedList.xml
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\PagedList.Mvc.xml
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\System.Web.Helpers.xml
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\System.Web.Mvc.xml
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\System.Web.Optimization.xml
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\System.Web.Razor.xml
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\System.Web.WebPages.xml
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\System.Web.WebPages.Razor.xml
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\Newtonsoft.Json.xml
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\Antlr3.Runtime.pdb
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\obj\Debug\SachOnline.csproj.CoreCompileInputs.cache
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\obj\Debug\SachOnline.csproj.CopyComplete
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\obj\Debug\SachOnline.dll
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\obj\Debug\SachOnline.pdb
+D:\Documents\Do An Tot Nghiep\Do An Tot Nghiep Web\SachOnline\obj\Debug\SachOnline.csproj.AssemblyReference.cache

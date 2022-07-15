@@ -1,0 +1,108 @@
+﻿@model SachOnline.Models.SanPham
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+<div id="page-content" class="single-page">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <ul class="breadcrumb">
+                    <li><a href="@Url.Action("Index","SanPhams")">Home</a></li>
+                    <li><a href="@Url.Action("Index","DanhMucSanPhams", new { id=Model.MaDanhMuc})">@Model.DanhMucSanPham.TenDanhMuc</a></li>
+                    <li><a href="#">@Model.TenSP</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div id="main-content" class="col-md-8">
+                <div class="product">
+                    <div class="col-md-6">
+                        <div class="image">
+                            <img src="~/Assets/images/DanhMucSach//@Model.HinhAnh" />
+                            <div class="image-more">
+                                <ul class="row">
+                                    <li class="col-lg-3 col-sm-3 col-xs-4">
+                                        <a href="#"><img class="img-responsive" src="~/Assets/images/DanhMucSach//@Model.HinhAnh"></a>
+                                    </li>
+                                    <li class="col-lg-3 col-sm-3 col-xs-4">
+                                        <a href="#"><img class="img-responsive" src="~/Assets/images/DanhMucSach//@Model.HinhAnh"></a>
+                                    </li>
+                                    <li class="col-lg-3 col-sm-3 col-xs-4">
+                                        <a href="#"><img class="img-responsive"src="~/Assets/images/DanhMucSach//@Model.HinhAnh"></a>
+                                    </li>
+                                  
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="caption">
+                            <div class="name"><h3>@Model.TenSP</h3></div>
+                            <div class="info">
+                                <ul>
+                                    <li>Tên nhà xuất bản: @Model.NhaXuatBan.TenNhaXuatBan</li>
+                                    <li>Mã nhà xuất bản: @Model.MaNXB</li>
+                                </ul>
+                            </div>
+                            <div class="price">@Model.Gia VNĐ</div>
+                          
+                            <div class="rating"><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star-empty"></span></div>
+
+                            @if (HttpContext.Current.Session["SDT"] == null)
+                            {
+                                <a class="btn cart" href="@Url.Action("Index","Login")"><span class="glyphicon glyphicon-shopping-cart"></span></a>
+                            }
+                            else
+                            {
+                                <a class="btn cart" href="@Url.Action("AddToCart", "ShoppingCart", new { id = Model.MaSP })"><span class="glyphicon glyphicon-shopping-cart"></span></a>
+                            }
+
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div class="product-desc">
+                    <ul class="nav nav-tabs">
+                        <li class="active"><a href="#description">Mô tả</a></li>
+
+                    </ul>
+                    <div class="tab-content">
+                        <div id="description" class="tab-pane fade in active">
+                                @Model.MoTa
+                        </div>
+                        <div id="review" class="tab-pane fade">
+                            <div class="review-text">
+                                <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                            </div>
+                            <div class="review-form">
+                                <h4>Write a review</h4>
+                                <form name="form1" id="ff" method="post" action="review.php">
+                                    <label>
+                                        <span>Enter your name:</span>
+                                        <input type="text" name="name" id="name" required>
+                                    </label>
+                                    <label>
+                                        <span>Your message here:</span>
+                                        <textarea name="message" id="message"></textarea>
+                                    </label>
+                                    <div class="text-right">
+                                        <input class="btn btn-default" type="reset" name="reset" value="Reset">
+                                        <input class="btn btn-default" type="submit" name="Submit" value="Submit">
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>   
+            </div>
+            <div id="sidebar" class="col-md-4">
+                @Html.Partial("_DanhMucSanPhanInterFacePratical", SachOnline.Buss.DanhMucSanPhamBus.DanhSach())
+                @Html.Partial("_NhaXuatBanIndex", SachOnline.Buss.NhaXuatBanBus.DanhSach())
+                @Html.Partial("_SanPhamLienQuanParticalView", SachOnline.Buss.SanPhamBus.DanhSachLay3())
+            </div>
+        </div>
+    </div>
+</div>
+

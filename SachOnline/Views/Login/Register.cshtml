@@ -1,0 +1,162 @@
+﻿@model SachOnline.Models.KhachHang
+@using CaptchaMvc.HtmlHelpers;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script language="javascript" src="http://code.jquery.com/jquery-2.0.0.min.js"></script>
+    <title>Register</title>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Assets/css/NewRegister.css" type="text/css" rel="stylesheet" />
+</head>
+@*<body>
+
+
+        <div>
+            <div id="form-register" style="left:520px; font-size:25px;">
+                @using (Html.BeginForm("Register", "Login", FormMethod.Post))
+                {
+                    @Html.AntiForgeryToken()
+                    <table>
+                        <tr>
+                            <th colspan="2" class="title-form">Đăng ký</th>
+                        </tr>
+
+
+                        <tr>
+                            <td>Tên của bạn</td>
+                            <td>@Html.TextBoxFor(m => m.TenKH)</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">@Html.ValidationMessageFor(m => m.TenKH)</td>
+                        </tr>
+                        <tr>
+                            <td>Số điện thoại</td>
+                            <td>@Html.TextBoxFor(m => m.SDT)</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">@Html.ValidationMessageFor(m => m.SDT)</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                @if (ViewBag.Error != null)
+                                {
+                                    <span class="field-validation-error">@ViewBag.Error</span>
+                                }
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>Nhập email</td>
+                            <td>@Html.TextBoxFor(m => m.Email)</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">@Html.ValidationMessageFor(m => m.Email)</td>
+                        </tr>
+
+                        <tr>
+                            <td>Nhập mật khẩu</td>
+                            <td>@Html.PasswordFor(m => m.MatKhau)</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">@Html.ValidationMessageFor(m => m.MatKhau)</td>
+                        </tr>
+
+                        <tr>
+                            <td>Địa chỉ</td>
+                            <td>@Html.TextBoxFor(m => m.DiaChi)</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">@Html.ValidationMessageFor(m => m.DiaChi)</td>
+                        </tr>
+                        <tr>
+                            <td>
+                            </td>
+                            <td>
+                                <input type="submit" value="Đăng ký" />
+                                <input type="reset" value="Loại bỏ" />
+
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="3"><a class="btn btn-primary" style="text-decoration:none;" href="@Url.Action("Index","Login")">Đăng nhập ngay</a></td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="3"><a class="btn btn-primary" style="text-decoration:none;" href="@Url.Action("Index","SanPhams")">Trang chủ</a></td>
+                        </tr>
+                    </table>
+                }
+            </div>
+        </div>
+
+    </body>*@
+<body>
+    <div id="login-box">
+        @using (Html.BeginForm("Register", "Login", FormMethod.Post, htmlAttributes: new { @enctype = "multipart/form-data", @id = "fromCapcha" }))
+        {
+            @Html.AntiForgeryToken()
+        <div class="left" style="padding-top: 10px; padding-bottom: 0px;">
+            <h1>Đăng ký</h1>
+            <span>Nhập vào số điện thoại:</span>
+            @Html.TextBoxFor(m => m.SDT, new { @class = "form-control", @placeholder = "0962781328" })
+            <span>Nhập vào tên:</span>
+            @Html.TextBoxFor(m => m.TenKH, new { @class = "form-control", @placeholder = "Nguyen Manh Cuong" })
+
+            <span>Nhập vào email:</span>
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control", @placeholder = "cuongnguyendtk78@gmail.com" })
+
+
+            <span>Nhập vào mật khẩu:</span>
+            @Html.TextBoxFor(m => m.MatKhau, new { @class = "form-control", @placeholder = "********" })
+           
+            <span>Nhập vào địa chỉ:</span>
+            @Html.TextBoxFor(m => m.DiaChi ,new { @class = "form-control", @placeholder = "Phu Tho" })
+
+            @Html.Captcha("Thử lại", "Nhập vào chữ bạn nhìn thấy", length: 2)
+            <p style="color:red; margin-top:0px">@ViewBag.ErrorMsg</p>
+            <div class="nut" margin-top: 0px;>
+                <input type="submit" value="Đăng ký" style="margin-top:0px; padding:0px;"/>
+                <input type="reset" value="Làm mới "style="margin-top:0px; padding:0px;" />
+            </div>
+        </div>
+
+            <div class="right" style=" padding-top: 10px; padding-bottom: 20px; ">
+                <span class="loginwith">Đăng nhập với</span>
+
+                <button class="social-signin facebook">Facebook</button>
+                <button class="social-signin twitter">Twitter</button>
+                <button class="social-signin google">Google+</button>
+                <div class="DangNhap">
+                    Bạn đã có tài khoản?
+                    <a class="btn btn-primary" style="text-decoration:none;" href="@Url.Action("Index","Login")"><h3 style="color:cornflowerblue;text-align:center;">Đăng nhập ngay</h3></a>
+                    <a style="text-decoration:none" href="@Url.Action("Home","Sanphams")"><h3 style="color:cornflowerblue;text-align:center;" >Trang chủ</h3></a>
+
+                    <div style="color: red; font-size: 18px;">
+                        @Html.ValidationMessageFor(m => m.TenKH)
+                        <br />
+                        @Html.ValidationMessageFor(m => m.SDT)
+                        <br />
+                        @Html.ValidationMessageFor(m => m.Email)
+                        <br />
+                        @Html.ValidationMessageFor(m => m.MatKhau)
+                        <br />
+                        @Html.ValidationMessageFor(m => m.DiaChi)
+                    </div>
+                    @if (ViewBag.Error != null)
+                    {
+                        <span class="field-validation-error">@ViewBag.Error</span>
+                    }
+                </div>
+            </div>
+
+        }
+        <div class="or">OR</div>
+    </div>
+</body>
+</html>

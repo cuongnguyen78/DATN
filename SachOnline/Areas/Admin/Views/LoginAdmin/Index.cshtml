@@ -1,0 +1,119 @@
+﻿@model SachOnline.Models.AccountAdmin
+@{
+    ViewBag.Title = "Index";
+    //Layout = "~/Areas/Admin/Views/Shared/_MainLayoutAdmin.cshtml";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script language="javascript" src="http://code.jquery.com/jquery-2.0.0.min.js"></script>
+    <title>Đăng nhập</title>
+    @*<link href="~/Assets/js/Register.css" rel="stylesheet" type="text/css" />*@
+    <style>
+
+
+        body {
+            color: white;
+            background-color: white;
+        }
+
+        .field-validation-error {
+            color: red;
+        }
+
+        #form-register {
+            position: absolute;
+            /* top: 30px;
+            left: 30px;*/
+            border: 1px solid #ccc;
+            /* padding: 10px 10px;*/
+            background-color: #00bcd4;
+            border-radius: 5px;
+        }
+
+        .table {
+            width: 450px;
+            height: 450px;
+            
+        }
+            .table tr{
+                width:200px;
+            }
+
+            .title-form {
+                text-align: center;
+                font-size: 30px;
+            }
+
+        input[type="submit"],
+        input[type="reset"] {
+            font-size: 30px;
+          /*  background-color: #fe4f4b;*/
+            width: auto;
+            color: black;
+            border-color: white;
+            cursor:pointer;
+        } 
+        a{
+            text-decoration:none;
+            color:white;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <div id="form-register" style="left:520px; font-size:25px;">
+            @using (Html.BeginForm("Authen", "LoginAdmin", FormMethod.Post))
+            {
+                @Html.AntiForgeryToken()
+                <table class="table">
+                    <tr>
+                        <th colspan="2" class="title-form">ĐĂNG NHẬP</th>
+                    </tr>
+                    <tr>
+                        <td>Tài khoản</td>
+                        <td>@Html.TextBoxFor(m => m.MaTK)</td>
+                    </tr>
+                    @*<tr>
+                        <td colspan="2">@Html.ValidationMessageFor(m => m.MaTK)</td>
+                    </tr>*@
+                    <tr>
+                        <td>Nhập mật khẩu</td>
+                        <td>@Html.PasswordFor(m => m.MatKhau)</td>
+                    </tr>
+                    @*<tr>
+                        <td colspan="2">@Html.ValidationMessageFor(m => m.MatKhau)</td>
+                    </tr>*@
+                    <tr>
+                        <td colspan="2">
+                            @if (ViewBag.Error != null)
+                            {
+                                <span class="field-validation-error">@ViewBag.Error</span>
+                            }
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <td colspan="2" align="center">
+                            <input type="submit" class="btn btn-primary" value="Đăng nhập" />
+                            <input type="reset" class="btn btn-primary" value="Làm mới" />
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" colspan="3"><a href="https://www.facebook.com/cuongnguyendtk78/">Quên mật khẩu</a></td>
+                    </tr>
+                </table>
+            }
+        </div>
+    </div>
+</body>
+</html>
+
+
+

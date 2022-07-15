@@ -1,0 +1,112 @@
+﻿@model PagedList.IPagedList<SachOnline.Models.GioHang>
+@using PagedList.Mvc;
+
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "AddToCart";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<style>
+    #customers {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 78%;
+    }
+
+        #customers td, #customers th {
+            border: 4px solid #ddd;
+            padding: 4px;
+        }
+
+        #customers tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+       
+
+        #customers th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: left;
+            background-color: #fe4f4b;
+            color: white;
+        }
+</style>
+
+<body>
+    <br />
+    <h2 style="color: black" align="Center">Giỏ hàng của bạn</h2>
+    <br />
+    <table id="customers" align="center">
+        <tr>
+            <th>Hình ảnh</th>
+            <th>Tên sản phẩm</th>
+            <th>Giá</th>
+            <th>Số lượng</th>
+            <th>Thành tiền</th>
+            <th colspan="3" style="text-align:center">Bạn muốn</th>
+        </tr>
+        @{
+            var tongtien = 0;
+        }
+        @{
+            var count = 0;
+        }
+        @foreach (var item in Model)
+        {
+            count = count + 1;
+    <tr>
+        <td><a href="@Url.Action("Details","SanPhams",new { id=item.SanPham.MaSP})"><img style="width:80px;height:120px;" src="~/Assets/images/DanhMucSach//@item.SanPham.HinhAnh" /></a></td>
+        <td>@item.SanPham.TenSP</td>
+        <td>@item.SanPham.Gia</td>
+        @*<td>
+
+            <input type="number" min="1" name="txtSoLuong" value="@item.SoLuong" style="background-color:#f4ff94" />
+
+            <a href="@Url.Action("Update_Quantity_Cart","ShoppingCart",new { id=item.MaSP})"><img style="width:30px;height:30px;" src="~/Assets/images/IconEdit.jpg" /><input type="submit" value="Cập nhật" style="background-color: #fe4f4b; color: white; border: 1px solid #ddd;" /></a>
+
+
+        </td>*@
+
+  
+        <td>@item.SoLuong</td>
+        <td>
+            @{
+                var x = item.SoLuong;
+                var y = item.SanPham.Gia;
+                var z = x * y;
+                tongtien = (int)(tongtien + z);
+                <span>@z</span>
+            }
+        </td>
+        <td align="center"><a href="@Url.Action("AddToCart","ShoppingCart",new { id=item.MaSP})"><img style="width:30px;height:30px;" src="~/Assets/images/add.png" /></a></td>
+
+        <td align="center"><a href="@Url.Action("Minus","ShoppingCart",new { id=item.MaSP})"><img style="width:30px;height:30px;" src="~/Assets/images/minus.png" /></a></td>
+        
+        @*<td align="center"><a href="@Url.Action("CapNhatGioHang","ShoppingCart",new { id=item.MaSP})"><img style="width:30px;height:30px;" src="~/Assets/images/IconEdit.jpg" /></a></td>*@
+
+        <td align="center"><a href="@Url.Action("xoaspfromcart","ShoppingCart",new { id=item.MaSP})"><img style="width:30px;height:30px;" src="~/Assets/images/delete.png" /></a></td>
+    </tr>
+        }
+
+
+    </table>
+    <h3 align="center" style="color: #fe4f4b; ">Tổng tiền: @tongtien VNĐ</h3>
+    @if (count == 0)
+    {
+        <div style="margin-top:200px;margin-bottom:200px;width:100%;"><h1 style="color:red;text-align:center;">Không có sản phẩm nào</h1></div>
+    }
+    else
+    {
+        <br />
+        <div align="center"><a class="btn btn-success" style="font-size: 30px;  width: 200px;" href="@Url.Action("Index","DatHang")">Đặt hàng</a></div>
+    }
+    <br />
+
+</body>
+<div align="center">
+    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount
+    @Html.PagedListPager(Model, page => Url.Action("Minus", new { page }))
+</div>
+

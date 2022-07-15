@@ -1,0 +1,16 @@
+﻿@model IEnumerable<SachOnline.Models.NhaXuatBan>
+<li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Các nhà xuất bản</a>
+    <div class="dropdown-menu">
+        <div class="dropdown-inner">
+            <ul class="list-unstyled" style="background-color: #fe4f4b">
+                @foreach (var item in Model)
+                {
+                    <li><a href="@Url.Action("Index","NhaXuatBans", new { id=item.MaNXB})">@item.TenNhaXuatBan</a></li>
+                }
+
+            </ul>
+           
+        </div>
+    </div>
+</li>

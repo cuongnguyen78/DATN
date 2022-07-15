@@ -1,0 +1,35 @@
+﻿@model SachOnline.Models.BLOG
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_MainLayoutAdmin.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>BLOG</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TenBlog)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenBlog)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NoiDungBlog)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NoiDungBlog)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.MaBlog }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

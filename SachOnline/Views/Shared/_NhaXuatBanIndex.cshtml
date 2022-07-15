@@ -1,0 +1,10 @@
+﻿@model IEnumerable<SachOnline.Models.NhaXuatBan>
+<div class="widget wid-brand">
+    <div class="heading"><h4>Nhà xuất bản</h4></div>
+    <div class="content">
+        @foreach (var item in Model)
+        {
+            <label class="checkbox"><input type="checkbox" name="brand">@item.TenNhaXuatBan</label>
+        }
+    </div>
+</div>
